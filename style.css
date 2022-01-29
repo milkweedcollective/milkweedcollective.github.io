@@ -56,7 +56,9 @@ text-align:right;
 }
 
 #linkboxbox img{
-vertical-align: middle;
+align-self: stretch;
+float: left;
+
 } 
 
 .post{
