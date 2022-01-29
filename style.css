@@ -58,6 +58,7 @@ text-align:right;
 #linkboxbox img{
 align-self: stretch;
 float: left;
+max-width: 70%;
 
 } 
 
