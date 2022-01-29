@@ -55,6 +55,10 @@ padding:2px;
 text-align:right;
 }
 
+#linkboxbox img{
+vertical-align: middle;
+} 
+
 .post{
 width:572px;
 padding:16px;
